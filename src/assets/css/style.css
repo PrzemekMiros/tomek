@@ -640,7 +640,7 @@ a:not(.-unlink).-dashed,
 a:not(.-unlink):active,
 a:not(.-unlink):focus,
 a:not(.-unlink):hover {
-  color: #dc2828;
+  color: #29a2b1;
   -webkit-animation: 0.4s cubic-bezier(0.58, 0.3, 0.005, 1) 0s 1 normal none
     running links;
   animation: 0.4s cubic-bezier(0.58, 0.3, 0.005, 1) 0s 1 normal none running
@@ -652,7 +652,7 @@ a:not(.-unlink).-undash {
   background-image: none;
 }
 a:not(.-unlink).-highlighted {
-  color: #dc2828;
+  color: #29a2b1;
 }
 a.titles-typo {
   letter-spacing: -0.02rem;
@@ -1420,7 +1420,7 @@ var {
 }
 .hamburger-nav .menu .mega-menu-item.active > a .ion,
 .hamburger-nav .menu .mega-menu-item:hover > a .ion {
-  color: #dc2828;
+  color: #29a2b1;
 }
 .hamburger-nav .menu .mega-menu-item.active > ul,
 .hamburger-nav .menu .mega-menu-item:hover > ul {
@@ -2493,7 +2493,8 @@ var {
   margin-top: 0;
 }
 .site-footer-copyright {
-  font-size: 0.95em;
+  font-size: 0.75em;
+  opacity: .7;
 }
 .site-footer-copyright .holder {
   padding-top: 3vh;
@@ -2711,7 +2712,7 @@ input[type="submit"]:not(.-outlined):not(.-flat):not(.-text):not(.-primary):not(
 input[type="submit"]:not(.-outlined):not(.-flat):not(.-text):not(.-primary):not(
     .-pagination
   ):hover {
-  background-color: #dc2828;
+  background-color: #29a2b1;
   color: #fff;
 }
 .pagination:not(.text-center).-outlined .btn.button:not(.-flat),
@@ -2756,7 +2757,7 @@ input[type="submit"]:not(.-outlined):not(.-flat):not(.-text):not(.-primary):not(
 .pagination:not(.text-center).-outlined
   input.button[type="submit"]:not(.-pagination):hover:not(.-flat) {
   border-color: currentColor;
-  color: #dc2828;
+  color: #29a2b1;
 }
 .btn.-text,
 .button.-text,
@@ -2844,8 +2845,8 @@ input[type="submit"].-primary:not(.-outlined):not(.-flat):not(.-text):hover {
   button.button[type="submit"].-primary:not(.-flat),
 .pagination:not(.text-center).-outlined
   input.button[type="submit"].-primary:not(.-flat) {
-  border-color: #dc2828;
-  color: #dc2828;
+  border-color: #29a2b1;
+  color: #29a2b1;
 }
 .pagination:not(.text-center).-outlined .btn.-primary.button:active:not(.-flat),
 .pagination:not(.text-center).-outlined .btn.-primary.button:focus:not(.-flat),
@@ -2881,14 +2882,14 @@ button[type="submit"].-primary.-flat,
 button[type="submit"].-primary.-text,
 input[type="submit"].-primary.-flat,
 input[type="submit"].-primary.-text {
-  color: #dc2828;
+  color: #29a2b1;
 }
 .btn.-primary:not(.-outlined):not(.-flat):not(.-text),
 .button.-primary:not(.-outlined):not(.-flat):not(.-text),
 a.button.-primary:not(.-outlined):not(.-flat):not(.-text),
 button[type="submit"].-primary:not(.-outlined):not(.-flat):not(.-text),
 input[type="submit"].-primary:not(.-outlined):not(.-flat):not(.-text) {
-  background-color: #dc2828;
+  background-color: #29a2b1;
 }
 .btn.-small,
 .btn.btn-small,
@@ -3041,8 +3042,8 @@ input[type="radio"] {
 }
 input[type="checkbox"]:checked,
 input[type="radio"]:checked {
-  background-color: #dc2828;
-  border-color: #dc2828;
+  background-color: #29a2b1;
+  border-color: #29a2b1;
 }
 input[type="checkbox"]:invalid,
 input[type="radio"]:invalid {
@@ -3106,14 +3107,14 @@ input[type="radio"]:checked {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: #dc2828;
+  background-color: #29a2b1;
 }
 .custom-cursor .circle-cursor-outer {
   margin-left: -15px;
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 1px solid #dc2828;
+  border: 1px solid #29a2b1;
   z-index: 10000000;
   opacity: 0.5;
   -webkit-transition: all 0.1s ease-out;
@@ -3202,7 +3203,7 @@ input[type="radio"]:checked {
   top: 0;
   height: 100%;
   width: 100%;
-  background: #dc2828;
+  background: #29a2b1;
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
@@ -3919,7 +3920,7 @@ label + * {
   margin-top: 0;
 }
 .page-id-124 .entry-content a:not(.wp-block-button__link) {
-  color: #dc2828;
+  color: #29a2b1;
 }
 .page-id-124 .-layout2 {
   padding-bottom: 4rem;
@@ -4340,7 +4341,7 @@ label + * {
   vertical-align: middle;
   font-size: 0.8em;
   margin-top: -2px;
-  color: #dc2828;
+  color: #29a2b1;
 }
 .headline-meta .post-meta-estimate {
   white-space: nowrap;
@@ -7525,7 +7526,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
 }
 .menu li.new span:after {
   content: "NEW";
-  background-color: #dc2828;
+  background-color: #29a2b1;
 }
 .menu li.version span:after {
   content: "V3.0";

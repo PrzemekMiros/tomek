@@ -27,7 +27,7 @@ body {
   --wp--preset--color--pale-cyan-blue: #8ed1fc;
   --wp--preset--color--vivid-cyan-blue: #0693e3;
   --wp--preset--color--vivid-purple: #9b51e0;
-  --wp--preset--color--brand-color: #d90a2c;
+  --wp--preset--color--brand-color: #28a2b1;
   --wp--preset--color--beige-dark: #a1824f;
   --wp--preset--color--dark-strong: #24262b;
   --wp--preset--color--dark-light: #32353c;
@@ -166,12 +166,12 @@ a:not(.-unlink):not(.-highlighted):focus .title,
 a:not(.-unlink):not(.-highlighted):hover,
 a:not(.-unlink):not(.-highlighted):hover .title,
 ul:not(.-unlist) > li::before {
-  color: #d90a2c;
+  color: #28a2b1;
 }
 .custom-cursor .circle-cursor-outer,
 input[type="checkbox"]:checked,
 input[type="radio"]:checked {
-  border-color: #d90a2c;
+  border-color: #28a2b1;
 }
 .button.-primary:not(.-outlined):not(.-flat):not(.-text),
 .button:not(.-outlined):not(.-text):not(.-flat):not(.-primary):not(
@@ -201,7 +201,7 @@ input[type="submit"].-primary:not(.-outlined):not(.-flat):not(.-text),
 input[type="submit"]:not(.-outlined):not(.-flat):not(.-text):not(
     .-primary
   ):hover {
-  background-color: #d90a2c;
+  background-color: #28a2b1;
 }
 @media screen and (max-width: 768px) {
   .header,
@@ -333,7 +333,7 @@ input[type="submit"] {
 .nav-item:nth-child(6) li:first-child li:nth-child(6) span:after,
 .nav-item:nth-child(6) li:nth-child(2) li:nth-child(6) span:after {
   content: "NEW";
-  background-color: #dc2828;
+  background-color: #29a2b1;
   margin: -1px 0 0 5px;
   padding: 0 4px;
   height: 1.05rem;
@@ -542,10 +542,10 @@ input[type="submit"] {
   text-transform: uppercase;
 }
 #ohio-custom-63b440656c5ca .icon-group {
-  color: #d90a2c;
+  color: #28a2b1;
 }
 #ohio-custom-63b440656c97e .icon-group {
-  color: #d90a2c;
+  color: #28a2b1;
 }
 #ohio-custom-63b440656ddc1.logo img {
   width: 130px;
