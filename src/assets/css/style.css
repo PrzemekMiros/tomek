@@ -3721,7 +3721,8 @@ big {
   margin-top: 0;
 }
 .site-footer-copyright {
-  font-size: 0.95em;
+  font-size: 0.75em;
+  opacity: .7;
 }
 .site-footer-copyright .holder {
   padding-top: 3vh;
