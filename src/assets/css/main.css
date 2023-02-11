@@ -661,3 +661,22 @@ input[type="submit"] {
 #ohio-custom-63b4406580374 {
   color: #fff;
 }
+
+.policy h1,
+.policy h2,
+.policy h3 {
+  margin-top: 1em;
+  margin-bottom: 1em
+}
+
+.policy h1 {
+  font-size: 44px
+}
+
+.policy h2 {
+  font-size: 33px
+}
+
+.policy h3 {
+  font-size: 24px
+}
