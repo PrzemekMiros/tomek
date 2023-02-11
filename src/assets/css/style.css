@@ -3857,7 +3857,7 @@ label + * {
   background-color: rgba(150, 144, 162, 0.06);
 }
 .blog-item.-layout4 .image-holder .overlay {
-  background-color: rgba(17, 16, 19, 0.5);
+  background-color: rgba(17, 16, 19, 0.075);
   height: 100%;
   width: 100%;
   left: 0;
@@ -3883,9 +3883,6 @@ label + * {
   -webkit-transition: opacity 0.35s cubic-bezier(0.645, 0.045, 0.355, 1) !important;
   -o-transition: opacity 0.35s cubic-bezier(0.645, 0.045, 0.355, 1) !important;
   transition: opacity 0.35s cubic-bezier(0.645, 0.045, 0.355, 1) !important;
-}
-.blog-item.-layout4:hover * {
-  color: #fff;
 }
 .blog-item.-layout4:not(:hover) *,
 .blog-item.-layout6.-contained:not(:hover) * {
